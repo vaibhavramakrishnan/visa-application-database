@@ -1,1 +1,3 @@
-# visa-application-database
+# Visa Application Database
+
+The project aims to design a robust and user-friendly database system using Unified Modeling Language (UML) to create a conceptual design and the Relational Database Model for the logical design. By leveraging these tools, I intend to ensure the database's integrity, flexibility, and scalability, thereby optimizing its performance for both current and future requirements.The proposed database system will be specifically tailored to handle visa applications, ensuring that each applicant's data is accurately recorded and easily accessible. We then implement SQL queries on this database, which allow us to efficiently retrieve relevant application information, such as applicant details, visa types, processing status, and historical data.
